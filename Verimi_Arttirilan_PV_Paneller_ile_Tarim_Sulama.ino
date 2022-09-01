@@ -53,6 +53,18 @@ void loop() {
  lcd.setCursor(10,1);
  lcd.print(     c); // Sıcaklık verisi yazıldı.
  delay(2000); // 2 saniye bekleme süresi 
+  
+ lcd.clear(); // Lcd ekrandaki veriler silinecek ve 2. bilgilendirici metine hazır hale getirilecektir.
+ lcd.noBacklight(); 
+ delay(1000);
+ lcd.backlight(); 
+ lcd.setCursor(0,0); // Lcd ekranın 0. satırının 0. sütununa
+ lcd.print("SUSUZLUK ORANI");// "SUSUZLUK ORANI" yazıldı.
+ lcd.setCursor(0,1);
+ lcd.print("      %");
+ lcd.print(    YuzdeNem); // Sıcaklık verisi yazıldı.
+ delay(3000);
+ lcd.clear();
  
    if(c>25 )// Eğer ölçülen sıcaklık 25 dereceden büyük olursa Panel soğutma motoru çalıştırılacak.
   {
