@@ -10,7 +10,8 @@ Herkese merhaba👋. Biz "Atmaca Team" ekibi olarak Güneş Panellerinin Verimin
 
 🎉🎉🎉Okuduğunuz için Teşekkür eder, sağlıklı günler dileriz.🥷🥷🥷
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Detaylı bilgi için bizimle iletişime geçin</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-kaygusuz-69b992230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-kaygusuz-69b992230" height="30" width="40" /></a>
 <a href="https://www.instagram.com/atmacateam77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufskaygusuz" height="30" width="40" /></a>
